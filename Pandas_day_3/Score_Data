@@ -1,0 +1,11 @@
+,name,score,attempts,qualify,new_column,name Change,Index
+0,Matthew,14,1,True,14.5,Matthew,g
+1,Michael,20,3,True,20.0,Michael,f
+2,Katherine,16,2,True,16.5,Katherine,c
+3,Dima,9,3,False,9.0,Dima,b
+4,Emily,9,2,False,9.0,Emily,e
+5,James,0,3,False,,Maxwell,d
+6,Kevin,8,2,False,8.0,Kevin,i
+7,Jonas,19,1,True,19.0,Jonas,j
+8,Anastasia,12,1,True,12.5,Anastasia,a
+9,Laura,0,1,False,,Laura,h
